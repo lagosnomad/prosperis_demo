@@ -1,4 +1,4 @@
-# Prosperis Customer REST API - Assessment
+# Prosperis Customer REST API
 
 - Auth Resource – This will handle endpoints for authentication which will include, login, signup etc
 - Customer Resource – This will handle CRUD endpoints for managing a customer. All endpoints in this resource will only be accessed by an authenticated and authorized user.
