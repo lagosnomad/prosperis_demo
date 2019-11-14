@@ -28,7 +28,7 @@
     "fs": "0.0.1-security",
     "joi": "^14.3.1",
     "jsonwebtoken": "^8.4.0",
-    "mongoose": "^5.0.17",
+    "mongoose": "^5.7.5",
     "mongoose-bcrypt": "^1.5.1",
     "mongoose-string-query": "^0.2.5",
     "mongoose-timestamp": "^0.6.0",
