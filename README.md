@@ -27,6 +27,7 @@ I created a documentation for this REST API and it can be found [here on Postman
 - NodeJs
 - ExpressJs
 - MongoDB as a service ([Mlab](https://mlab.com))
+- JWT for securing endpoints
 - VSCode
 - Postman
 - Postman Documenter
